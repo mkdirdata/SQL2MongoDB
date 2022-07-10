@@ -4,7 +4,7 @@
 
 ## DESCRIPTION
 
-Idea is to create a Pipeline to transfer data from regular SQL datbases to MongoDB.
+Idea is to create a Pipeline to transfer data from regular SQL databases to MongoDB.
 <br>
 
 ## Current Situtation
@@ -23,3 +23,19 @@ graph TD
   C-->D[Insert into MongoDB]
   E[Create MongoDB Conn]-->D[Insert into MongoDB]
 ```
+<br>
+
+## FUTURE WORK
+
+- Exception handling
+- Code rework (Majorly OOP's)
+- Implement/replicate relations b/w tables (if possible)
+- More to come...
+<br>
+
+## Lib versions
+
+- Python 3.10.5
+- pip 22.1.2
+- pandas 1.4.3
+- pymongo 4.1.1
