@@ -1,11 +1,15 @@
 # SQL2MongoDB
 
 <br>
+
 ## DESCRIPTION
+
 <br>
 Idea is to create a Pipeline to transfer data from regular SQL datbases to MongoDB.
 <hr>
+
 ## Current Situtation
+
 <br>
 Currently only handles SQLite.<br>
 However there's some redundant, or lets say unnecesary code, will remove in future.<br>
