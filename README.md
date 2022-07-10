@@ -6,7 +6,7 @@
 
 <br>
 Idea is to create a Pipeline to transfer data from regular SQL datbases to MongoDB.
-<hr>
+<br>
 
 ## Current Situtation
 
